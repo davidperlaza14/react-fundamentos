@@ -1,0 +1,17 @@
+.single-card{
+overflow: hidden ;
+position: relative;
+
+margin-top: 20px;
+}
+
+.single-card h1{
+position: absolute;
+bottom: 0;
+background-color: rgba(0, 0, 0, 0.3);
+width: 100%;
+padding: 10px;
+text-align: center;
+color: #fff;
+
+}
